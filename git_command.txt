@@ -1,0 +1,5 @@
+git init
+git remote add origin "repository link dite hobe"
+git add .
+git commit -m "15th nov"
+git push -u "repository link dite hobe" --force
